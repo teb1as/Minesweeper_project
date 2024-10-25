@@ -1,0 +1,19 @@
+# ninja log v5
+1376	1626	7357968405726021	minesweeperproj.exe	d6d98e043856e38d
+13	346	7357977625798508	build.ninja	591e7ab101b4b136
+4	1379	7357977942066515	CMakeFiles/minesweeperproject.dir/main.cpp.obj	674e4ca7807c64e7
+1383	1630	7357977944557082	minesweeperproject.exe	b8119771b22976f4
+7	1346	7357981115767548	CMakeFiles/minesweeperproject.dir/main.cpp.obj	674e4ca7807c64e7
+1347	1607	7357981118358136	minesweeperproject.exe	b8119771b22976f4
+8	1247	7357984061742638	CMakeFiles/minesweeperproject.dir/main.cpp.obj	674e4ca7807c64e7
+1247	1499	7357984064235366	minesweeperproject.exe	b8119771b22976f4
+17	1284	7357988272885471	CMakeFiles/minesweeperproject.dir/main.cpp.obj	674e4ca7807c64e7
+1285	1527	7357988275326038	minesweeperproject.exe	b8119771b22976f4
+17	1096	7357988527561213	CMakeFiles/minesweeperproject.dir/main.cpp.obj	674e4ca7807c64e7
+1097	1307	7357988529671695	minesweeperproject.exe	b8119771b22976f4
+17	1247	7357988734247602	CMakeFiles/minesweeperproject.dir/main.cpp.obj	674e4ca7807c64e7
+1247	1477	7357988736528122	minesweeperproject.exe	b8119771b22976f4
+18	1283	7357988896057917	CMakeFiles/minesweeperproject.dir/main.cpp.obj	674e4ca7807c64e7
+1284	1522	7357988898418457	minesweeperproject.exe	b8119771b22976f4
+43	1217	7447597302906940	CMakeFiles/minesweeperproject.dir/main.cpp.obj	674e4ca7807c64e7
+1218	1589	7447597306621149	minesweeperproject.exe	b8119771b22976f4
